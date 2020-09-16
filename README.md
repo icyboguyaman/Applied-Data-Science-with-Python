@@ -18,3 +18,5 @@
 
 [5.Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis)
 
+
+![](logo.jpg)
